@@ -13,7 +13,7 @@ Please change the database credentials in the .env
 go to localhost:8000/registration to create token as a developer or localhost:8000/login if you have already registered
 
 <br>
-Below is an ios app comsuming the api 
+Below is simple ios app comsuming the api 
 
 ![alt text](http://mibysmsgh.com/images/screen1.png)
 ![alt text](http://mibysmsgh.com/images/screen2.png)
